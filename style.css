@@ -1042,3 +1042,11 @@ h4 {
     text-align: center;
   }
 }
+
+#moto {
+  font-size: 3rem;
+}
+
+#quote {
+  margin: 0;
+}
